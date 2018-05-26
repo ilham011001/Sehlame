@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/nav_disease"
+            android:icon="@drawable/ic_bacteria_black"
+            android:title="Penyakit" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_restaurant_black"
+            android:title="Makanan" />
+        <item
+            android:id="@+id/nav_pesan"
+            android:icon="@drawable/ic_ff"
+            android:title="Tanya Robot" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_user_black"
+            android:title="My Profile" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="Kebijakan Privasi" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

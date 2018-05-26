@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Sehat Ala Islam</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string name="next">Selanjutnya</string>
+    <string name="skip">Lewati</string>
+    <string name="start">Mengerti!</string>
+
+    <string name="intro">
+        Matriks dalam matematika merupakan kumpulan bilangan, simbol atau ekspresi berbentuk persegi panjang yang disusun menurut baris dan kolom. Bilangan-bilangan yang terdapat pada suatu matriks disebut dengan elemen atau disebut juga anggota dari suatu matriks.\n
+    </string>
+
+    <string name="slide_1_title">Cari Penyakit</string>
+    <string name="slide_1_desc">Temukan penyakit yang ingin anda sembuhkan</string>
+
+    <string name="slide_2_title">Konsultasi</string>
+    <string name="slide_2_desc">Tanyakan dengan ustadz atau dengan user lain untuk mengatasi penyakit yang dialami</string>
+
+    <string name="slide_3_title">Penyakit</string>
+    <string name="slide_3_desc">Sembuhkan penyakit dengan ketentuan yang sudah ada beserta penjelasannya</string>
+
+    <string name="slide_4_title">Makanan Sehat</string>
+    <string name="slide_4_desc">Ketahui makanan yang sehat untuk dimakan sehari-hari</string>
+
+    <string name="slide_5_title">Tanya Robot</string>
+    <string name="slide_5_desc">Tanyakan kepada Robot penyakit apa yang diderita oleh user, dan Robot akan menjawab sesuai dengan kata kunci yang ditulis oleh user</string>
+
+    <string name="lost_connection_1">Tidak ada koneksi</string>
+    <string name="lost_connection_2">Cek koneksi dan silakan mulai lagi</string>
+    <string name="try_again">MULAI LAGI</string>
+    <string name="sigin">Masuk</string>
+    <string name="signup">Daftar</string>
+
+    <string name="lorem">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry
+    </string>
+
+    <string name="lorem2">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry
+    </string>
+
+    <string name="kurma_title">
+        Manfaat Buah Kurma untuk Kesehatan Tubuh
+    </string>
+
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>JavaScript</item>
+    </string-array>
+
+    <string name="batuk_desc">
+        Allah Subhanahu wa Ta’ala berfirman tentang madu yang keluar dari perut lebah :\n\n
+        يَخْرُجُ مِنْ بُطُوْنِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيْهِ شِفَاءٌ لِلنَّاسِ\n\n
+        “Dari perut lebah itu keluar minuman (madu) yang bermacam-macam warnanya, di dalamnya terdapat obat yang menyembuhkan bagi manusia.” (An-Nahl: 69)\n
+        Madu dapat digunakan untuk mengobati berbagai jenis penyakit dengan izin Allah Subhanahu wa Ta’ala.Di antaranya untuk mengobati sakit perut, seperti ditunjukkan dalam hadits berikut ini:\n\n
+        أَنَّ رَجُلاً أَتَى النَّبِيَّ صَلىَّ اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: أَخِي يَشْتَكِي بَطْنَهُ. فَقَالَ: اِسْقِهِ عَسَلاً. ثُمَّ أَتَاهُ الثَّانِيَة فَقَالَ: اسْقِهِ عَسَلاً. ثُمَّ أَتَاهُ الثَّالِثَة فَقَالَ: اسْقِهِ عَسَلاً. ثُمَّ أَتَاهُ فَقَالَ: فَعَلْتُ. فَقَالَ: صَدَقَ اللهُ وَكَذَبَ بَطْنُ أَخِيْكَ، اسْقِهِ عَسْلاً. فَسَقَاهُ فَبَرَأَ\n\n
+    “Ada seseorang menghadap Nabi Shallallahu ‘alaihi wa sallam, ia berkata: ‘Saudaraku mengeluhkan sakit pada perutnya.’ Nabi berkata: ‘Minumkan ia madu.’ Kemudian orang itu datang untuk kedua kalinya, Nabi berkata: ‘Minumkan ia madu.’ Orang itu datang lagi pada kali yang ketiga, Nabi tetap berkata: ‘Minumkan ia madu.’ Setelah itu, orang itu datang lagi dan menyatakan: ‘Aku telah melakukannya (namun belum sembuh juga malah bertambah mencret).’ Nabi bersabda: ‘Allah Mahabenar dan perut saudaramu itu dusta8. Minumkan lagi madu.’ Orang itu meminumkannya lagi, maka saudaranya pun sembuh.” (HR. Al-Bukhari no. 5684 dan Muslim no. 5731)\n
+    </string>
+
+    <string name="kurma_desc">
+        1. Menjaga kesehatan Tulang \n
+        \t Salah satu kandungan utama kurma adalah kalsium. Zat yang satu ini sangat penting untuk kesehatan tulang. Bagi anda yang ingin tulangnya selalu sehat sangat disarankan untuk rajin mengkonsumsi kurma.
+        \n2. Melancarkan Buang air Kecil \n
+        \t Bagi anda yang merasa susah buang air kecil tidak ada salahnya untuk mulai rajin mengkonsumsi kurma. Sebuah penelitian yang dilakukan di Universitas Riyad menyebutkan jika kandungan nutrisi kurma bisa membuat seseorang menjadi lancar buang air kecil. Agar bisa buang air kecil secara lancar disarankan untuk mengkonsumsi minimal 5 buah kurma setiap hari.
+        \n3. Mengandung Serat yang tinggi \n
+        \t Manfaat kurma yang lain adalah kandungan serat tinggi. Manusia sangat membutuhkan serat. Jika seseorang kekurangan serat maka akan membuat kesehatannya mudah terganggu. Kurma adalah buah yang memiliki kandungan serat sangat tinggi dan bisa membuat kebutuhan serat harian anda terpenuhi dengan mudah.
+        \n4. Mengatasi gangguan usus \n
+        \t Banyak orang yang belum mengerti jika salah satu kandungan dalam kurma adalah nikotin. Zat yang satu ini bisa membersihkan usus dan membuat semua gangguan pada usus dapat teratasi. Sebuah fakta menarik mengenai kurma juga terungkap dimana buah yang satu ini bisa membuat seseorang menjadi lebih mudah dalam buang air besar.
+        \n5. Mengatasi anemia \n
+        \t Manfaat kurma selanjutnya adalah mengatasi anemia. Bagi anda yang menderita anemia sangat disarankan untuk mengkonsumsi buah kurma. Buah yang satu ini memiliki kandungan nutrisi yang tinggi pada kurma sangat baik untuk kesehatan dan pada kurma terdapat zat besi yang baik untuk orang yang menderita anemia. Kandungan zat besi pada kurma bisa dikatakan sangat tinggi dan aman dibandingkan jika anda harus mengkonsumsi obat obatan.
+        \n6. Menaikkan berat badan \n
+        \t Kadang orang ingin memiliki tubuh yang lebih besar karena terlihat kurus juga tidak maksimal. Untuk bisa gemuk kadang membutuhkan obat yang berbahaya karena sekarang ini banyak sekali obat obatan berbahaya. Akan lebih baik dan aman jika anda menggunakan buah kurma untuk menggemukan berat badan. Kurma mengandung kalori yang sangat tinggi, jumlah kalori yang dimiliki buah ini mencapai lebih dari 3000 kalori dan itu pastinya sudah cukup untuk makanan pengemuk badan.
+        \n7. Mengatasi Alergi \n
+        \t Kurma adalah buah yang secara alami sudah memiliki kandungan sulfur. Anda harus memahami jika zat yang terkandung dalam kurma tersebut sangat efektif untuk mengatasi alergi. Jika anda merasa alergi maka disarankan untuk mengkonsumsi kurma agar alergi tersebut dapat teratasi.
+    </string>
+
+    <string name="card_1_title">Bertanya</string>
+    <string name="card_2_title">Sharing</string>
+    <string name="card_3_title">Sakit</string>
+    <string name="card_4_title">Makanan Sehat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="comment_1">Lorem Ipsum is simply dummy text</string>
+    <string name="comment_2">Lorem Ipsum is simply dummy text</string>
+
+</resources>
